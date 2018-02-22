@@ -1,0 +1,33 @@
+.navheader {
+	padding-left: 10%;
+}
+
+.nav-item {
+	margin-right: 30px;
+}
+
+.main-container {
+	padding-top: 2em;
+}
+
+.h1 {
+	color: yellow;
+}
+
+.paragraph {
+	padding-top: 3%;
+}
+
+.starter-template {
+	text-align: center;
+	padding: 2em 2em 2em 2em;
+}
+
+.mydescription {
+	font-size: 1.2em;
+}
+
+.contain-center {
+	padding-top: 2%;
+	text-align: center;
+}
